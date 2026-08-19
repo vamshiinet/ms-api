@@ -1,0 +1,31 @@
+0:02:44 Browser5 Insert active Tab5 at 0
+0:02:44 Tab5 StartNav22 #auto_toplevel
+0:02:44 Tab5 StartNav23 #typed
+0:02:44 Microsoft.Shutdown.OnWindowClosing
+0:02:44 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:02:44 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:02:44 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:02:44 Microsoft.Shutdown.TabStripModel.CloseAllTabs
+0:02:44 Microsoft.Shutdown.TabStripModel.CloseTabs
+0:02:44 Microsoft.Shutdown.TabStripModel.CloseTabs_EdgeBeforeClosingAllTabs
+0:02:44 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl
+0:02:44 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
+0:02:44 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosingAll
+0:02:44 Microsoft.Shutdown.TabStripModel.CloseWebContentses
+0:02:44 Microsoft.Shutdown.TabStripModel.CloseWebContentses_FastShutdown
+0:02:44 Microsoft.Shutdown.TabStripModel.ShouldRunUnloadListenerBeforeClosing_false
+0:02:44 Tab5 FinishNav23
+0:02:44 Tab5 FinishNav22
+0:02:44 Tab5 RenderProcessGone
+0:02:44 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
+0:02:44 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
+0:02:44 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
+0:02:44 Browser5 Close Tab5 at 0
+0:02:44 Tab5 WebContentsDestroyed
+0:02:44 Microsoft.Shutdown.OnWindowClosing
+0:02:44 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:02:44 Widget Closed: BrowserFrame
+0:02:44 Microsoft.Shutdown.OnWindowClosing
+0:02:44 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:02:44 Microsoft.Browser_Removed
+0:03:47 Microsoft.Shutdown.OnWindowClosing

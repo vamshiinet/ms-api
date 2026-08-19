@@ -1,0 +1,3 @@
+spring.application.name=apiGtApplication
+server.port=5001
+spring.cloud.gateway.routes[0].id=payment-service
